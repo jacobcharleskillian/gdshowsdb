@@ -5,7 +5,61 @@
   :city: Davis
   :state: CA
   :country: US
-  :sets: []
+  :sets:
+  - :uuid: 34eca17c-4f37-435e-8eca-e53c4d65903b
+    :songs:
+    - :uuid: 17b2069d-d089-49e8-92bd-11baf6d98b44
+      :name: Cold Rain And Snow
+      :segued: false
+    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
+      :name: Me And My Uncle
+      :segued: false
+    - :uuid: 97837d57-c5bb-4b5a-9d4c-1d6f7e61366e
+      :name: Smokestack Lightnin'
+      :segued: true
+    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
+      :name: Truckin'
+      :segued: false
+    - :uuid: 1812037f-3603-4b48-b3c5-169b504da489
+      :name: Dire Wolf
+      :segued: false
+    - :uuid: e8c67ff6-ba17-4b7e-b844-3045a1f4baa4
+      :name: Hard To Handle
+      :segued: false
+    - :uuid: 5ed3679e-b57d-46e0-ade7-767a76549e87
+      :name: Around And Around
+      :segued: false
+    - :uuid: c908bcba-b39f-4e16-98e5-1b2f9f920ca0
+      :name: Cumberland Blues
+      :segued: false
+    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
+      :name: Casey Jones
+      :segued: false
+  - :uuid: 97ba0a35-4eb6-4fd4-9915-3c0d8669ba4a
+    - :uuid: 193c9c4c-8c9a-467c-b2cc-52a4021965ac
+      :name: Cryptical Envelopment
+      :segued: true
+    - :uuid: b2f0f51c-579a-45aa-bb19-3b03b8c779ab
+      :name: Drums
+      :segued: true
+    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
+      :name: The Other One
+      :segued: true
+    - :uuid: edd66104-1e2a-489d-b1e0-6d6222d0e8d1
+      :name: Cosmic Charlie
+      :segued: false
+    - :uuid: 1ecf0c86-3d03-4740-b708-a12bbe0a0dba
+      :name: China Cat Sunflower
+      :segued: true
+    - :uuid: 6c88d23b-1d1e-402d-8cb7-3e9eb12b087a
+      :name: I Know You Rider
+      :segued: false
+    - :uuid: 39b29401-fa61-4370-baef-ea815cb23096
+      :name: Mama Tried
+      :segued: false
+    - :uuid: f177ee1a-08c6-4d1e-a54d-d74e271ff011
+      :name: Uncle John's Band
+      :segued: false
 1971/01/22:
   :uuid: 1b014de0-7f3c-4926-8538-1d108eb1e756
   :venue: Lane Community College
@@ -1295,198 +1349,14 @@
   :city: San Francisco
   :state: CA
   :country: US
-  :sets:
-  - :uuid: ea054350-e65d-4e4a-b99c-9f42b111ea10
-    :songs:
-    - :uuid: c0246dee-5fae-4ad6-814d-a718d47371e8
-      :name: Bertha
-      :segued: false
-    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
-      :name: Me And My Uncle
-      :segued: false
-    - :uuid: 43e4cb07-6698-49ea-bf32-2d5e2e7c847c
-      :name: Sugaree
-      :segued: false
-    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
-      :name: Jack Straw
-      :segued: false
-    - :uuid: 4abb209c-d53f-4cff-914b-3b494bbd42b7
-      :name: Tennessee Jed
-      :segued: false
-    - :uuid: c77efe2c-7f2f-4168-acb6-18d0f40913cb
-      :name: El Paso
-      :segued: false
-    - :uuid: d99f15ba-7d69-41c5-9ec0-5e1fe973ab4a
-      :name: Loser
-      :segued: false
-    - :uuid: ebb48d57-205e-4e6d-905b-930f1d3badcf
-      :name: Playing In The Band
-      :segued: false
-    - :uuid: c908bcba-b39f-4e16-98e5-1b2f9f920ca0
-      :name: Cumberland Blues
-      :segued: false
-    - :uuid: dfb863a7-bbd4-4d4b-bd42-0c484bdd8134
-      :name: Black Peter
-      :segued: false
-    - :uuid: 8144cd03-560a-4ef1-879e-070dadb5ced7
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: b2201080-d9e7-444e-ba4e-95df64c14d57
-      :name: Deal
-      :segued: false
-    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
-      :name: Mexicali Blues
-      :segued: false
-    - :uuid: bf7146f8-670c-4796-9c4e-c74440164e8d
-      :name: Sing Me Back Home
-      :segued: false
-    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
-      :name: One More Saturday Night
-      :segued: false
-  - :uuid: 7148f9bf-a0a2-42c2-a395-8724f1d730d5
-    :songs:
-    - :uuid: 04f97e7f-646f-432a-b2f6-98a04f5ae7f9
-      :name: Ramble On Rose
-      :segued: false
-    - :uuid: a9766e2a-1949-4bc4-8317-2deb0c7625be
-      :name: Me And Bobby McGee
-      :segued: false
-    - :uuid: 193c9c4c-8c9a-467c-b2cc-52a4021965ac
-      :name: Cryptical Envelopment
-      :segued: true
-    - :uuid: b2f0f51c-579a-45aa-bb19-3b03b8c779ab
-      :name: Drums
-      :segued: true
-    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
-      :name: The Other One
-      :segued: true
-     - :uuid: 193c9c4c-8c9a-467c-b2cc-52a4021965ac
-      :name: Cryptical Envelopment
-      :segued: true
-    - :uuid: cab54841-2760-43e1-8d26-75222d349227
-      :name: Comes A Time
-      :segued: false
-    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
-      :name: Sugar Magnolia
-      :segued: false
-    - :uuid: 4fbd2583-d872-4c63-baf2-841c659a5b3a
-      :name: Brown Eyed Women
-      :segued: false
-    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
-      :name: Not Fade Away
-      :segued: true
-    - :uuid: f3f42473-ae97-407d-864d-0eade6b1711c
-      :name: Goin' Down The Road Feeling Bad
-      :segued: true
-    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
-      :name: Not Fade Away
-      :segued: false
+  :sets: []
 1971/11/07:
   :uuid: 1fbfdf71-1d51-4e17-8e56-a999f675926e
   :venue: Harding Theater
   :city: San Francisco
   :state: CA
   :country: US
-  :sets: 
-  - :uuid: 56d077a6-e4f6-4a9f-9368-48befb524eab
-    :songs:
-    - :uuid: 8226ed8c-138e-4af5-b1e3-7c83c00f88cb
-      :name: Truckin'
-      :segued: false
-    - :uuid: 4fbd2583-d872-4c63-baf2-841c659a5b3a
-      :name: Brown Eyed Women
-      :segued: false
-    - :uuid: 8144cd03-560a-4ef1-879e-070dadb5ced7
-      :name: Beat It On Down The Line
-      :segued: false
-    - :uuid: 01e37433-368f-44fc-9d90-daac421e545f
-      :name: Hide Away
-      :segued: false
-    - :uuid: 43e4cb07-6698-49ea-bf32-2d5e2e7c847c
-      :name: Sugaree
-      :segued: false
-    - :uuid: 5727375f-3d50-479b-8dce-1c391fec3ef3
-      :name: Jack Straw
-      :segued: false
-    - :uuid: 4abb209c-d53f-4cff-914b-3b494bbd42b7
-      :name: Tennessee Jed
-      :segued: false
-    - :uuid: c908bcba-b39f-4e16-98e5-1b2f9f920ca0
-      :name: Cumberland Blues
-      :segued: false
-    - :uuid: c77efe2c-7f2f-4168-acb6-18d0f40913cb
-      :name: El Paso
-      :segued: false
-    - :uuid: ed9ceab9-aa3a-4c9c-a869-adb142a7dcc4
-      :name: Big Railroad Blues
-      :segued: false
-    - :uuid: cab54841-2760-43e1-8d26-75222d349227
-      :name: Comes A Time
-      :segued: false
-    - :uuid: 86500ded-8954-41bf-a636-188b6ce41a3b
-      :name: Mexicali Blues
-      :segued: false
-    - :uuid: b6acc05d-4eea-4fb7-bfdd-6c1a3bd0762f
-      :name: One More Saturday Night
-      :segued: false
-  - :uuid: 7e129418-3ed3-47a6-a323-723204dbc378
-    :songs:
-    - :uuid: 04f97e7f-646f-432a-b2f6-98a04f5ae7f9
-      :name: Ramble On Rose
-      :segued: false
-    - :uuid: a9766e2a-1949-4bc4-8317-2deb0c7625be
-      :name: Me And Bobby McGee
-      :segued: false
-    - :uuid: d99f15ba-7d69-41c5-9ec0-5e1fe973ab4a
-      :name: Loser
-      :segued: false
-    - :uuid: 1ed53b41-4045-4895-9e96-1e3fce71dc6e
-      :name: Sugar Magnolia
-      :segued: false
-    - :uuid: 0ead60da-6abf-4589-98dd-e56faca0c767
-      :name: Dark Star
-      :segued: true
-    - :uuid: b2f0f51c-579a-45aa-bb19-3b03b8c779ab
-      :name: Drums
-      :segued: true
-    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
-      :name: The Other One
-      :segued: true
-    - :uuid: 73e14dd3-27be-4010-9094-b88d1ac11d60
-      :name: Me And My Uncle
-      :segued: true
-    - :uuid: fdd90e0d-259b-419c-9825-58211cc87940
-      :name: The Other One
-      :segued: false
-    - :uuid: b2201080-d9e7-444e-ba4e-95df64c14d57
-      :name: Deal
-      :segued: false
-    - :uuid: 50fe618e-804e-4fd1-a9d8-284b7e4356ba
-      :name: Brokedown Palace
-      :segued: false
-    - :uuid: ebb48d57-205e-4e6d-905b-930f1d3badcf
-      :name: Playing In The Band
-      :segued: false
-    - :uuid: a44ab626-62a1-470d-89dd-e378e7ab2e41
-      :name: Casey Jones
-      :segued: false
-    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
-      :name: Not Fade Away
-      :segued: true
-    - :uuid: f3f42473-ae97-407d-864d-0eade6b1711c
-      :name: Goin' Down The Road Feeling Bad
-      :segued: true
-    - :uuid: 83a4262e-0e76-4b59-866e-a77de349929c
-      :name: Not Fade Away
-      :segued: false
-  - :uuid: 3556d22b-a993-466b-adf2-1f303dc729a8
-    :songs:
-    - :uuid: 2503ca6d-f21d-47e3-99f0-dd9f318baade
-      :name: Johnny B. Goode
-      :segued: false
-    - :uuid: f177ee1a-08c6-4d1e-a54d-d74e271ff011
-      :name: Uncle John's Band
-      :segued: false
+  :sets: []
 1971/11/11:
   :uuid: dd6aa318-204c-4f08-be37-d8db26fc1bbe
   :venue: Atlanta Municipal Auditorium
